@@ -58,6 +58,10 @@
 
 	> Really nice and informative channel about low level programming languages and hardware. Helps to understand computing a bit better
 
+15. **Dank Rookie**
+
+	> nvim config + nvim stuff
+
 ****
 
 ## Websites
