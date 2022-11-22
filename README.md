@@ -58,7 +58,7 @@
 
 	> Really nice and informative channel about low level programming languages and hardware. Helps to understand computing a bit better
 
-15. **Dank Rookie**
+15. **DankRookie**
 
 	> nvim config + nvim stuff
 
@@ -79,19 +79,23 @@
 
 	> Great place for hardware and software troubleshooting for ThinkPads runnnig linux. 
 
-4. **https://jcvassort.open-web.fr/**
+4. **https://roadmap.sh/**
+
+	> IT roadmap for different carrer paths *MINDBLOWING*
+
+5. **https://jcvassort.open-web.fr/**
 
 	> SysAdmin/DevOps blog describing advanced Linux Stuff
 
-5. **https://linuxhandbook.com/**
+6. **https://linuxhandbook.com/**
 
 	> Nice resource, linux guides and practical examples
 
-6. **https://linuxreviews.org/**
+7. **https://linuxreviews.org/**
 
 	> Funny site, one can find some interesting reviews and tutorials
 
-7. **https://cht.sh/**
+8. **https://cht.sh/**
 
 	> so mofukin useful, great tool, gives you commands with flags for most frequent and practical use-cases
 	> Preferably `curl` this from the CLI
