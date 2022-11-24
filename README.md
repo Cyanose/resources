@@ -99,3 +99,7 @@
 
 	> so mofukin useful, great tool, gives you commands with flags for most frequent and practical use-cases
 	> Preferably `curl` this from the CLI
+
+9. **https://github.com/ossu/computer-science/**
+
+	> Open source CS Academy 
